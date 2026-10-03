@@ -7,7 +7,7 @@
 </td>
 
 <td width="40%">
-<img height="20%" src="https://media1.tenor.com/m/8IPzNZ_KG5kAAAAC/meta-metadigital.gif>"
+<img src="https://media1.tenor.com/m/8IPzNZ_KG5kAAAAC/meta-metadigital.gif>"
 </td>
 </tr>
 
@@ -115,18 +115,14 @@
 
 # 📌 My Status :
 
-<table>
 
-<tr width="100%">
-<td width = "50%">
+
 <img src="https://github-readme-stats.shion.dev/api?username=vanshtomer2005&theme=swift
 &hide_border=false&include_all_commits=true&count_private=false"/>
-</td>
 
-<td width = "50%">
-<img src="https://streak-stats.demolab.com/?user=deepakguptabca&theme=cobalt&hide_border=false"/>
-</td>
-</tr>
-</table>
+
+
+<img src="https://streak-stats.demolab.com/?user=vanshtomer2005&theme=cobalt&hide_border=false"/>
+
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vanshtomer2005&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
