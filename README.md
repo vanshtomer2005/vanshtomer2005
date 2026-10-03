@@ -1,3 +1,14 @@
+<style>
+    .status-card{
+        display : flex;
+        justify-content : center;
+        gap : 30px;
+        padding : 10px
+    }
+
+    
+    </style>
+
 <table width = "100%">
 <tr>
 <td width = "60%">
@@ -115,14 +126,15 @@
 
 # 📌 My Status :
 
-
-
+<div class="status-card">
+<div>
 <img src="https://github-readme-stats.shion.dev/api?username=vanshtomer2005&theme=swift
-&hide_border=false&include_all_commits=true&count_private=false"/>
-
-
-
+&hide_border=false&include_all_commits=true&count_private=false"/></div>
+<div>
 <img src="https://streak-stats.demolab.com/?user=vanshtomer2005&theme=cobalt&hide_border=false"/>
+</div>
 
+</div>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vanshtomer2005&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<div style="text-align: center;"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vanshtomer2005&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></div>
+
