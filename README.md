@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vansh Tomer</h1>
+<h1 align="">Hi 👋, I'm Vansh Tomer</h1>
 <h3 align="center">Hey! I’m an MCA student and aspiring software developer who loves turning ideas into real, working projects.</h3>
 
 - 📫 How to reach me **vanshtomer42@gmail.com**
