@@ -7,7 +7,7 @@
 </td>
 
 <td width="40%">
-<img src="https://media1.tenor.com/m/8IPzNZ_KG5kAAAAC/meta-metadigital.gif>"
+<img height="20%" src="https://media1.tenor.com/m/8IPzNZ_KG5kAAAAC/meta-metadigital.gif>"
 </td>
 </tr>
 
