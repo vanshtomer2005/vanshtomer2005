@@ -4,7 +4,7 @@
 <tr>
 <td width = "60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+San&weight=700&size=41&pause=1000&width=435&lines=Hey+Vansh+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+San&weight=700&size=41&pause=1000&width=435&lines=Hey!+Vansh+here)](https://git.io/typing-svg)
 
 </td>
 
