@@ -1,13 +1,4 @@
-<style>
-    .status-card{
-        display : flex;
-        justify-content : center;
-        gap : 30px;
-        padding : 10px
-    }
 
-    
-    </style>
 
 <table width = "100%">
 <tr>
