@@ -72,7 +72,7 @@
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Backend
 
